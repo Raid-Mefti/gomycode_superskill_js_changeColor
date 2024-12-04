@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #color-box {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  #change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  #change-color-btn:hover {
+    background-color: #0056b3;
+  }
+  
